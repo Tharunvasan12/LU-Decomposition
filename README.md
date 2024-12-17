@@ -52,9 +52,10 @@ print(X)
 ```
 
 ## Output:
+(i)The L and U matrix:
 ![image](https://github.com/user-attachments/assets/d217dd2f-d1fa-43eb-8534-37f36306b7be)
 
-
+(ii)The LU Decomposition of a matrix
 ![image](https://github.com/user-attachments/assets/8d8a672c-38f8-45df-ad9b-619fe7b06b02)
 
 
